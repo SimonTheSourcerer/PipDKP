@@ -1,0 +1,7 @@
+## Interface: 11304
+## Version: 1.0.0
+## Title: Pips total verrückte DKP Preise =)
+## Notes: Zeigt den DKP Wert im Tooltip
+## Author: Sangu & Pip
+
+PipDKP.lua
